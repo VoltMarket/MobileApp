@@ -61,3 +61,5 @@ def main(page: ft.Page):
     page.add(ft.Text("test"))
 
 ft.app(main)
+
+# test for PC
